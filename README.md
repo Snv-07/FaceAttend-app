@@ -1,2 +1,2 @@
-# FaceAttend-app
-FaceAttend Android app downloads (signed APK).
+# FaceSwift-app
+FaceSwift Android app downloads (signed APK).
